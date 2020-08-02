@@ -1,0 +1,23 @@
+{
+  "name": "aayush-saini-blog",
+  "version": "1.0.0",
+  "description": "Portfolio-cum-blog",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aayushsaini/aayushsaini-blog.git"
+  },
+  "keywords": [
+    "aayush",
+    "saini"
+  ],
+  "author": "Aayush Saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aayushsaini/aayushsaini-blog/issues"
+  },
+  "homepage": "https://github.com/aayushsaini/aayushsaini-blog#readme"
+}
